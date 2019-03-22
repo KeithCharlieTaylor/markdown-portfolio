@@ -9,3 +9,6 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 ![issue tab](https://lab.github.com/public/images/issue_tab.png)
 
 I'll meet you over there, can't wait to get started!
+
+## Keith Taylor’s Markdown Profile
+The website I created with this GitHub Learning Lab course is at [Keith Taylor’s Markdown Profile](https://keithcharlietaylor.github.io/markdown-portfolio/)
